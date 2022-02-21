@@ -1,0 +1,12 @@
+E:\CodigoTK\EjerciciodeClases\EjerciciodeClases\obj\Debug\EjerciciodeClases.vbprojAssemblyReference.cache
+E:\CodigoTK\EjerciciodeClases\EjerciciodeClases\obj\Debug\EjerciciodeClases.Resources.resources
+E:\CodigoTK\EjerciciodeClases\EjerciciodeClases\obj\Debug\EjerciciodeClases.vbproj.GenerateResource.cache
+E:\CodigoTK\EjerciciodeClases\EjerciciodeClases\obj\Debug\EjerciciodeClases.GeneradorYoshi.resources
+E:\CodigoTK\EjerciciodeClases\EjerciciodeClases\bin\Debug\GeneradordeYoshi.exe.config
+E:\CodigoTK\EjerciciodeClases\EjerciciodeClases\bin\Debug\GeneradordeYoshi.exe
+E:\CodigoTK\EjerciciodeClases\EjerciciodeClases\bin\Debug\GeneradordeYoshi.pdb
+E:\CodigoTK\EjerciciodeClases\EjerciciodeClases\bin\Debug\GeneradordeYoshi.xml
+E:\CodigoTK\EjerciciodeClases\EjerciciodeClases\obj\Debug\GeneradordeYoshi.exe
+E:\CodigoTK\EjerciciodeClases\EjerciciodeClases\obj\Debug\GeneradordeYoshi.xml
+E:\CodigoTK\EjerciciodeClases\EjerciciodeClases\obj\Debug\GeneradordeYoshi.pdb
+E:\CodigoTK\EjerciciodeClases\EjerciciodeClases\obj\Debug\EjerciciodeClases.Yoshi.resources
